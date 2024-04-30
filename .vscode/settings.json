@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
         "src",
-        "lib/src/toDoList-Day-01"
+        "lib/src/toDoList-Day-01",
+        "lib/src/guessingGame-Day-02"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

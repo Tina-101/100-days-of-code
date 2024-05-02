@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src",
         "lib/src/Day-02",
-        "lib/src/Day-01"
+        "lib/src/Day-01",
+        "lib/src/Day-04"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

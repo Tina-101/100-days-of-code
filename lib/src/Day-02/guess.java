@@ -26,6 +26,7 @@ public class guess {
         if (number == guess) {
             System.out.println("Correct! The number was " + number + ".");
             System.out.println("You tried to guess the number " + counter + " times.");
+
         }
     }
 }

@@ -58,7 +58,6 @@ public class App {
                     System.out.println("invalid number, girly. try again;");
 
                     System.out.println("\n\n");
-
             }
         }
     }

@@ -6,7 +6,7 @@ public class Band {
         Scanner scan = new Scanner(System.in);
         Random rand = new Random();
 
-        System.out.println("Welcome to the band name generator!\n***********************************\n\n");
+        System.out.println("\nWelcome to the band name generator!\n***********************************\n\n");
 
         int option = rand.nextInt(3) + 1;
 

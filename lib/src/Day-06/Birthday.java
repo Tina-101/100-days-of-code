@@ -24,11 +24,14 @@ public class Birthday {
         if (month < currentMonth) {
             System.out.println("\nyou are " + age + " years old");
         } else if (month == currentMonth) {
-            if (day <= currentDay) {
+            if (day < currentDay) {
                 System.out.println("\nyou are " + age + " years old");
             }
             if (day > currentDay) {
                 System.out.println("\nyou are " + (age - 1) + " years old");
+            }
+            if (day == currentDay) {
+                System.out.println("happy birthday! you are " + age + " years old");
             }
         } else if (month > currentMonth) {
             System.out.println("\nyou are " + (age - 1) + " years old");
